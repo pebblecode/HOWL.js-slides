@@ -1,5 +1,5 @@
 @charset "UTF-8";
-/* line 18, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
+/* line 18, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
 article,
 aside,
 details,
@@ -14,75 +14,75 @@ summary {
   display: block;
 }
 
-/* line 25, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
+/* line 25, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
 audio,
 canvas,
 video {
   display: inline-block;
 }
 
-/* line 31, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
+/* line 31, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
 audio:not([controls]) {
   display: none;
   height: 0;
 }
 
-/* line 37, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
+/* line 37, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
 [hidden] {
   display: none;
 }
 
-/* line 48, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
+/* line 48, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
 html {
   font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
 }
 
-/* line 55, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
+/* line 55, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
 body {
   margin: 0;
 }
 
-/* line 65, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
+/* line 65, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
 a:focus {
   outline: thin dotted;
 }
 
-/* line 71, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
+/* line 71, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
 a:active,
 a:hover {
   outline: 0;
 }
 
-/* line 82, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
+/* line 82, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
 h1 {
   font-size: 2em;
 }
 
-/* line 87, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
+/* line 87, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
 abbr[title] {
   border-bottom: 1px dotted;
 }
 
-/* line 93, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
+/* line 93, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
 b,
 strong {
   font-weight: bold;
 }
 
-/* line 98, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
+/* line 98, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
 dfn {
   font-style: italic;
 }
 
-/* line 103, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
+/* line 103, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
 mark {
   background: #ff0;
   color: #000;
 }
 
-/* line 112, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
+/* line 112, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
 code,
 kbd,
 pre,
@@ -91,24 +91,24 @@ samp {
   font-size: 1em;
 }
 
-/* line 118, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
+/* line 118, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
 pre {
   white-space: pre;
   white-space: pre-wrap;
   word-wrap: break-word;
 }
 
-/* line 125, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
+/* line 125, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
 q {
   quotes: "\201C" "\201D" "\2018" "\2019";
 }
 
-/* line 130, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
+/* line 130, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
 small {
   font-size: 80%;
 }
 
-/* line 136, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
+/* line 136, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
 sub,
 sup {
   font-size: 75%;
@@ -117,45 +117,45 @@ sup {
   vertical-align: baseline;
 }
 
-/* line 143, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
+/* line 143, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
 sup {
   top: -0.5em;
 }
 
-/* line 147, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
+/* line 147, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
 sub {
   bottom: -0.25em;
 }
 
-/* line 157, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
+/* line 157, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
 img {
   border: 0;
 }
 
-/* line 162, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
+/* line 162, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
 svg:not(:root) {
   overflow: hidden;
 }
 
-/* line 172, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
+/* line 172, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
 figure {
   margin: 0;
 }
 
-/* line 182, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
+/* line 182, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
 fieldset {
   border: 1px solid #c0c0c0;
   margin: 0 2px;
   padding: 0.35em 0.625em 0.75em;
 }
 
-/* line 190, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
+/* line 190, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
 legend {
   border: 0;
   padding: 0;
 }
 
-/* line 201, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
+/* line 201, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
 button, .btn,
 input,
 select,
@@ -165,13 +165,13 @@ textarea {
   margin: 0;
 }
 
-/* line 210, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
+/* line 210, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
 button, .btn,
 input {
   line-height: normal;
 }
 
-/* line 220, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
+/* line 220, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
 button, .btn,
 html input[type="button"],
 input[type="reset"],
@@ -179,20 +179,20 @@ input[type="submit"] {
   cursor: pointer;
 }
 
-/* line 228, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
+/* line 228, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
 button[disabled], [disabled].btn,
 input[disabled] {
   cursor: default;
 }
 
-/* line 235, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
+/* line 235, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
 input[type="checkbox"],
 input[type="radio"] {
   box-sizing: border-box;
   padding: 0;
 }
 
-/* line 242, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
+/* line 242, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
 input[type="search"] {
   -webkit-appearance: textfield;
   -moz-box-sizing: content-box;
@@ -200,32 +200,32 @@ input[type="search"] {
   box-sizing: content-box;
 }
 
-/* line 251, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
+/* line 251, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
 input[type="search"]::-webkit-search-cancel-button,
 input[type="search"]::-webkit-search-decoration {
   -webkit-appearance: none;
 }
 
-/* line 257, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
+/* line 257, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
 button::-moz-focus-inner, .btn::-moz-focus-inner,
 input::-moz-focus-inner {
   border: 0;
   padding: 0;
 }
 
-/* line 264, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
+/* line 264, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
 textarea {
   overflow: auto;
   vertical-align: top;
 }
 
-/* line 275, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
+/* line 275, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_normalize.scss */
 table {
   border-collapse: collapse;
   border-spacing: 0;
 }
 
-/*
+/*!
  * reveal.js
  * http://lab.hakim.se/reveal-js
  * MIT licensed
@@ -235,7 +235,7 @@ table {
 /*********************************************
  * RESET STYLES
  *********************************************/
-/* line 28, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 28, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 html, body, .reveal div, .reveal span, .reveal applet, .reveal object, .reveal iframe,
 .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6, .reveal p, .reveal blockquote, .reveal pre,
 .reveal a, .reveal abbr, .reveal acronym, .reveal address, .reveal big, .reveal cite, .reveal code,
@@ -256,7 +256,7 @@ html, body, .reveal div, .reveal span, .reveal applet, .reveal object, .reveal i
   vertical-align: baseline;
 }
 
-/* line 37, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 37, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal article, .reveal aside, .reveal details, .reveal figcaption, .reveal figure,
 .reveal footer, .reveal header, .reveal hgroup, .reveal menu, .reveal nav, .reveal section {
   display: block;
@@ -265,7 +265,7 @@ html, body, .reveal div, .reveal span, .reveal applet, .reveal object, .reveal i
 /*********************************************
  * GLOBAL STYLES
  *********************************************/
-/* line 47, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 47, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 html,
 body {
   width: 100%;
@@ -273,13 +273,13 @@ body {
   overflow: hidden;
 }
 
-/* line 53, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 53, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 body {
   position: relative;
   line-height: 1;
 }
 
-/* line 58, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 58, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 ::selection {
   background: #FF5E99;
   color: #fff;
@@ -289,7 +289,7 @@ body {
 /*********************************************
  * HEADERS
  *********************************************/
-/* line 74, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 74, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal h1,
 .reveal h2,
 .reveal h3,
@@ -303,22 +303,22 @@ body {
   line-height: 1;
 }
 
-/* line 83, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 83, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal h1 {
   font-size: 3.77em;
 }
 
-/* line 84, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 84, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal h2 {
   font-size: 2.11em;
 }
 
-/* line 85, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 85, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal h3 {
   font-size: 1.55em;
 }
 
-/* line 86, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 86, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal h4 {
   font-size: 1em;
 }
@@ -326,7 +326,7 @@ body {
 /*********************************************
  * VIEW FRAGMENTS
  *********************************************/
-/* line 93, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 93, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides section .fragment {
   opacity: 0;
   -webkit-transition: all .2s ease;
@@ -336,17 +336,17 @@ body {
   transition: all .2s ease;
 }
 
-/* line 102, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 102, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides section .fragment.visible {
   opacity: 1;
 }
 
-/* line 106, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 106, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides section .fragment.grow {
   opacity: 1;
 }
 
-/* line 109, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 109, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides section .fragment.grow.visible {
   -webkit-transform: scale(1.3);
   -moz-transform: scale(1.3);
@@ -355,12 +355,12 @@ body {
   transform: scale(1.3);
 }
 
-/* line 117, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 117, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides section .fragment.shrink {
   opacity: 1;
 }
 
-/* line 120, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 120, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides section .fragment.shrink.visible {
   -webkit-transform: scale(0.7);
   -moz-transform: scale(0.7);
@@ -369,7 +369,7 @@ body {
   transform: scale(0.7);
 }
 
-/* line 128, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 128, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides section .fragment.zoom-in {
   opacity: 0;
   -webkit-transform: scale(0.1);
@@ -379,7 +379,7 @@ body {
   transform: scale(0.1);
 }
 
-/* line 138, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 138, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides section .fragment.zoom-in.visible {
   opacity: 1;
   -webkit-transform: scale(1);
@@ -389,7 +389,7 @@ body {
   transform: scale(1);
 }
 
-/* line 148, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 148, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides section .fragment.roll-in {
   opacity: 0;
   -webkit-transform: rotateX(90deg);
@@ -399,7 +399,7 @@ body {
   transform: rotateX(90deg);
 }
 
-/* line 157, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 157, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides section .fragment.roll-in.visible {
   opacity: 1;
   -webkit-transform: rotateX(0);
@@ -409,44 +409,44 @@ body {
   transform: rotateX(0);
 }
 
-/* line 167, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 167, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides section .fragment.fade-out {
   opacity: 1;
 }
 
-/* line 170, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 170, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides section .fragment.fade-out.visible {
   opacity: 0;
 }
 
-/* line 174, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 174, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides section .fragment.semi-fade-out {
   opacity: 1;
 }
 
-/* line 177, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 177, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides section .fragment.semi-fade-out.visible {
   opacity: 0.5;
 }
 
-/* line 183, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 183, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides section .fragment.highlight-red,
 .reveal .slides section .fragment.highlight-green,
 .reveal .slides section .fragment.highlight-blue {
   opacity: 1;
 }
 
-/* line 186, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 186, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides section .fragment.highlight-red.visible {
   color: #ff2c2d;
 }
 
-/* line 189, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 189, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides section .fragment.highlight-green.visible {
   color: #17ff2e;
 }
 
-/* line 192, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 192, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides section .fragment.highlight-blue.visible {
   color: #1b91ff;
 }
@@ -455,19 +455,19 @@ body {
  * DEFAULT ELEMENT STYLES
  *********************************************/
 /* Fixes issue in Chrome where italic fonts did not appear when printing to PDF */
-/* line 202, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 202, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal:after {
   content: '';
   font-style: italic;
 }
 
-/* line 207, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 207, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal iframe {
   z-index: 1;
 }
 
 /* Ensure certain elements are never larger than the slide itself */
-/* line 214, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 214, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal img,
 .reveal video,
 .reveal iframe {
@@ -476,24 +476,24 @@ body {
 }
 
 /** Prevents layering issues in certain browser/transition combinations */
-/* line 220, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 220, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal a {
   position: relative;
 }
 
-/* line 225, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 225, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal strong,
 .reveal b {
   font-weight: bold;
 }
 
-/* line 230, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 230, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal em,
 .reveal i {
   font-style: italic;
 }
 
-/* line 235, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 235, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal ol,
 .reveal ul {
   display: inline-block;
@@ -501,27 +501,27 @@ body {
   margin: 0 0 0 1em;
 }
 
-/* line 242, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 242, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal ol {
   list-style-type: decimal;
 }
 
-/* line 246, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 246, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal ul {
   list-style-type: disc;
 }
 
-/* line 250, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 250, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal ul ul {
   list-style-type: square;
 }
 
-/* line 254, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 254, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal ul ul ul {
   list-style-type: circle;
 }
 
-/* line 261, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 261, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal ul ul,
 .reveal ul ol,
 .reveal ol ol,
@@ -530,19 +530,19 @@ body {
   margin-left: 40px;
 }
 
-/* line 266, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 266, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal p {
   margin-bottom: 10px;
   line-height: 1.2em;
 }
 
-/* line 272, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 272, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal q,
 .reveal blockquote {
   quotes: none;
 }
 
-/* line 276, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 276, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal blockquote {
   display: block;
   position: relative;
@@ -554,18 +554,18 @@ body {
   box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2);
 }
 
-/* line 288, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 288, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal blockquote p:first-child,
 .reveal blockquote p:last-child {
   display: inline-block;
 }
 
-/* line 292, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 292, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal q {
   font-style: italic;
 }
 
-/* line 296, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 296, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal pre {
   display: block;
   position: relative;
@@ -579,12 +579,12 @@ body {
   box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.3);
 }
 
-/* line 311, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 311, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal code {
   font-family: monospace;
 }
 
-/* line 314, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 314, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal pre code {
   padding: 5px;
   overflow: auto;
@@ -592,7 +592,7 @@ body {
   word-wrap: normal;
 }
 
-/* line 320, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 320, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal pre.stretch code {
   height: 100%;
   max-height: 100%;
@@ -601,29 +601,29 @@ body {
   box-sizing: border-box;
 }
 
-/* line 330, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 330, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal table th,
 .reveal table td {
   text-align: left;
   padding-right: .3em;
 }
 
-/* line 335, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 335, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal table th {
   text-shadow: white 1px 1px 2px;
 }
 
-/* line 339, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 339, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal sup {
   vertical-align: super;
 }
 
-/* line 342, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 342, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal sub {
   vertical-align: sub;
 }
 
-/* line 346, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 346, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal small {
   display: inline-block;
   font-size: 0.6em;
@@ -631,12 +631,12 @@ body {
   vertical-align: top;
 }
 
-/* line 353, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 353, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal small * {
   vertical-align: top;
 }
 
-/* line 357, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 357, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .stretch {
   max-width: none;
   max-height: none;
@@ -645,7 +645,7 @@ body {
 /*********************************************
  * CONTROLS
  *********************************************/
-/* line 367, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 367, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .controls {
   display: none;
   position: fixed;
@@ -656,7 +656,7 @@ body {
   bottom: 10px;
 }
 
-/* line 377, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 377, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .controls div {
   position: absolute;
   opacity: 0.05;
@@ -671,30 +671,30 @@ body {
   transition: all 0.2s ease;
 }
 
-/* line 393, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 393, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .controls div.enabled {
   opacity: 0.7;
   cursor: pointer;
 }
 
-/* line 398, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 398, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .controls div.enabled:active {
   margin-top: 1px;
 }
 
-/* line 402, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 402, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .controls div.navigate-left {
   top: 42px;
   border-right-width: 22px;
   border-right-color: #eee;
 }
 
-/* line 408, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 408, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .controls div.navigate-left.fragmented {
   opacity: 0.3;
 }
 
-/* line 412, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 412, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .controls div.navigate-right {
   left: 74px;
   top: 42px;
@@ -702,24 +702,24 @@ body {
   border-left-color: #eee;
 }
 
-/* line 419, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 419, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .controls div.navigate-right.fragmented {
   opacity: 0.3;
 }
 
-/* line 423, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 423, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .controls div.navigate-up {
   left: 42px;
   border-bottom-width: 22px;
   border-bottom-color: #eee;
 }
 
-/* line 429, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 429, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .controls div.navigate-up.fragmented {
   opacity: 0.3;
 }
 
-/* line 433, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 433, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .controls div.navigate-down {
   left: 42px;
   top: 74px;
@@ -727,7 +727,7 @@ body {
   border-top-color: #eee;
 }
 
-/* line 440, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 440, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .controls div.navigate-down.fragmented {
   opacity: 0.3;
 }
@@ -735,7 +735,7 @@ body {
 /*********************************************
  * PROGRESS BAR
  *********************************************/
-/* line 449, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 449, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .progress {
   position: fixed;
   display: none;
@@ -746,7 +746,7 @@ body {
   z-index: 10;
 }
 
-/* line 458, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 458, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .progress:after {
   content: '';
   display: 'block';
@@ -756,7 +756,7 @@ body {
   top: -20px;
 }
 
-/* line 466, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 466, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .progress span {
   display: block;
   height: 100%;
@@ -771,7 +771,7 @@ body {
 /*********************************************
  * SLIDES
  *********************************************/
-/* line 483, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 483, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal {
   position: relative;
   width: 100%;
@@ -779,7 +779,7 @@ body {
   -ms-touch-action: none;
 }
 
-/* line 491, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 491, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides {
   position: absolute;
   width: 100%;
@@ -804,12 +804,12 @@ body {
   perspective-origin: 0px -100px;
 }
 
-/* line 519, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 519, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides > section {
   -ms-perspective: 600px;
 }
 
-/* line 524, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 524, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides > section,
 .reveal .slides > section > section {
   display: none;
@@ -831,7 +831,7 @@ body {
 }
 
 /* Global transition speed settings */
-/* line 562, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 562, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal[data-transition-speed="fast"] .slides section {
   -webkit-transition-duration: 400ms;
   -moz-transition-duration: 400ms;
@@ -839,7 +839,7 @@ body {
   transition-duration: 400ms;
 }
 
-/* line 568, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 568, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal[data-transition-speed="slow"] .slides section {
   -webkit-transition-duration: 1200ms;
   -moz-transition-duration: 1200ms;
@@ -848,7 +848,7 @@ body {
 }
 
 /* Slide-specific transition speed overrides */
-/* line 576, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 576, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides section[data-transition-speed="fast"] {
   -webkit-transition-duration: 400ms;
   -moz-transition-duration: 400ms;
@@ -856,7 +856,7 @@ body {
   transition-duration: 400ms;
 }
 
-/* line 582, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 582, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides section[data-transition-speed="slow"] {
   -webkit-transition-duration: 1200ms;
   -moz-transition-duration: 1200ms;
@@ -864,19 +864,19 @@ body {
   transition-duration: 1200ms;
 }
 
-/* line 589, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 589, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides > section {
   left: -50%;
   top: -50%;
 }
 
-/* line 594, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 594, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides > section.stack {
   padding-top: 0;
   padding-bottom: 0;
 }
 
-/* line 600, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 600, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides > section.present,
 .reveal .slides > section > section.present {
   display: block;
@@ -884,7 +884,7 @@ body {
   opacity: 1;
 }
 
-/* line 608, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 608, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal.center,
 .reveal.center .slides,
 .reveal.center .slides section {
@@ -892,7 +892,7 @@ body {
 }
 
 /* Don't allow interaction with invisible slides */
-/* line 616, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 616, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides > section.future,
 .reveal .slides > section > section.future,
 .reveal .slides > section.past,
@@ -900,7 +900,7 @@ body {
   pointer-events: none;
 }
 
-/* line 621, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 621, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal.overview .slides > section,
 .reveal.overview .slides > section > section {
   pointer-events: auto;
@@ -909,7 +909,7 @@ body {
 /*********************************************
  * DEFAULT TRANSITION
  *********************************************/
-/* line 632, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 632, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides > section[data-transition=default].past,
 .reveal .slides > section.past {
   display: block;
@@ -920,7 +920,7 @@ body {
   transform: translate3d(-100%, 0, 0) rotateY(-90deg) translate3d(-100%, 0, 0);
 }
 
-/* line 642, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 642, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides > section[data-transition=default].future,
 .reveal .slides > section.future {
   display: block;
@@ -931,7 +931,7 @@ body {
   transform: translate3d(100%, 0, 0) rotateY(90deg) translate3d(100%, 0, 0);
 }
 
-/* line 653, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 653, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides > section > section[data-transition=default].past,
 .reveal .slides > section > section.past {
   display: block;
@@ -942,7 +942,7 @@ body {
   transform: translate3d(0, -300px, 0) rotateX(70deg) translate3d(0, -300px, 0);
 }
 
-/* line 663, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 663, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides > section > section[data-transition=default].future,
 .reveal .slides > section > section.future {
   display: block;
@@ -956,7 +956,7 @@ body {
 /*********************************************
  * CONCAVE TRANSITION
  *********************************************/
-/* line 679, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 679, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides > section[data-transition=concave].past,
 .reveal.concave .slides > section.past {
   -webkit-transform: translate3d(-100%, 0, 0) rotateY(90deg) translate3d(-100%, 0, 0);
@@ -965,7 +965,7 @@ body {
   transform: translate3d(-100%, 0, 0) rotateY(90deg) translate3d(-100%, 0, 0);
 }
 
-/* line 686, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 686, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides > section[data-transition=concave].future,
 .reveal.concave .slides > section.future {
   -webkit-transform: translate3d(100%, 0, 0) rotateY(-90deg) translate3d(100%, 0, 0);
@@ -974,7 +974,7 @@ body {
   transform: translate3d(100%, 0, 0) rotateY(-90deg) translate3d(100%, 0, 0);
 }
 
-/* line 694, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 694, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides > section > section[data-transition=concave].past,
 .reveal.concave .slides > section > section.past {
   -webkit-transform: translate3d(0, -80%, 0) rotateX(-70deg) translate3d(0, -80%, 0);
@@ -983,7 +983,7 @@ body {
   transform: translate3d(0, -80%, 0) rotateX(-70deg) translate3d(0, -80%, 0);
 }
 
-/* line 701, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 701, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides > section > section[data-transition=concave].future,
 .reveal.concave .slides > section > section.future {
   -webkit-transform: translate3d(0, 80%, 0) rotateX(70deg) translate3d(0, 80%, 0);
@@ -995,7 +995,7 @@ body {
 /*********************************************
  * ZOOM TRANSITION
  *********************************************/
-/* line 714, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 714, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides > section[data-transition=zoom].past,
 .reveal.zoom .slides > section.past {
   opacity: 0;
@@ -1007,7 +1007,7 @@ body {
   transform: scale(16);
 }
 
-/* line 725, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 725, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides > section[data-transition=zoom].future,
 .reveal.zoom .slides > section.future {
   opacity: 0;
@@ -1019,7 +1019,7 @@ body {
   transform: scale(0.2);
 }
 
-/* line 737, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 737, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides > section > section[data-transition=zoom].past,
 .reveal.zoom .slides > section > section.past {
   -webkit-transform: translate(0, -150%);
@@ -1029,7 +1029,7 @@ body {
   transform: translate(0, -150%);
 }
 
-/* line 745, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 745, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides > section > section[data-transition=zoom].future,
 .reveal.zoom .slides > section > section.future {
   -webkit-transform: translate(0, 150%);
@@ -1042,7 +1042,7 @@ body {
 /*********************************************
  * LINEAR TRANSITION
  *********************************************/
-/* line 758, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 758, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal.linear section {
   -webkit-backface-visibility: hidden;
   -moz-backface-visibility: hidden;
@@ -1050,7 +1050,7 @@ body {
   backface-visibility: hidden;
 }
 
-/* line 766, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 766, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides > section[data-transition=linear].past,
 .reveal.linear .slides > section.past {
   -webkit-transform: translate(-150%, 0);
@@ -1060,7 +1060,7 @@ body {
   transform: translate(-150%, 0);
 }
 
-/* line 774, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 774, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides > section[data-transition=linear].future,
 .reveal.linear .slides > section.future {
   -webkit-transform: translate(150%, 0);
@@ -1070,7 +1070,7 @@ body {
   transform: translate(150%, 0);
 }
 
-/* line 783, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 783, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides > section > section[data-transition=linear].past,
 .reveal.linear .slides > section > section.past {
   -webkit-transform: translate(0, -150%);
@@ -1080,7 +1080,7 @@ body {
   transform: translate(0, -150%);
 }
 
-/* line 791, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 791, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides > section > section[data-transition=linear].future,
 .reveal.linear .slides > section > section.future {
   -webkit-transform: translate(0, 150%);
@@ -1093,7 +1093,7 @@ body {
 /*********************************************
  * CUBE TRANSITION
  *********************************************/
-/* line 804, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 804, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal.cube .slides {
   -webkit-perspective: 1300px;
   -moz-perspective: 1300px;
@@ -1101,7 +1101,7 @@ body {
   perspective: 1300px;
 }
 
-/* line 811, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 811, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal.cube .slides section {
   padding: 30px;
   min-height: 700px;
@@ -1114,12 +1114,12 @@ body {
   box-sizing: border-box;
 }
 
-/* line 824, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 824, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal.center.cube .slides section {
   min-height: auto;
 }
 
-/* line 827, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 827, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal.cube .slides section:not(.stack):before {
   content: '';
   position: absolute;
@@ -1137,7 +1137,7 @@ body {
   transform: translateZ(-20px);
 }
 
-/* line 844, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 844, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal.cube .slides section:not(.stack):after {
   content: '';
   position: absolute;
@@ -1157,13 +1157,13 @@ body {
   transform: translateZ(-90px) rotateX(65deg);
 }
 
-/* line 865, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 865, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal.cube .slides > section.stack {
   padding: 0;
   background: none;
 }
 
-/* line 870, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 870, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal.cube .slides > section.past {
   -webkit-transform-origin: 100% 0%;
   -moz-transform-origin: 100% 0%;
@@ -1175,7 +1175,7 @@ body {
   transform: translate3d(-100%, 0, 0) rotateY(-90deg);
 }
 
-/* line 882, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 882, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal.cube .slides > section.future {
   -webkit-transform-origin: 0% 0%;
   -moz-transform-origin: 0% 0%;
@@ -1187,7 +1187,7 @@ body {
   transform: translate3d(100%, 0, 0) rotateY(90deg);
 }
 
-/* line 894, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 894, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal.cube .slides > section > section.past {
   -webkit-transform-origin: 0% 100%;
   -moz-transform-origin: 0% 100%;
@@ -1199,7 +1199,7 @@ body {
   transform: translate3d(0, -100%, 0) rotateX(90deg);
 }
 
-/* line 906, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 906, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal.cube .slides > section > section.future {
   -webkit-transform-origin: 0% 0%;
   -moz-transform-origin: 0% 0%;
@@ -1214,7 +1214,7 @@ body {
 /*********************************************
  * PAGE TRANSITION
  *********************************************/
-/* line 923, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 923, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal.page .slides {
   -webkit-perspective-origin: 0% 50%;
   -moz-perspective-origin: 0% 50%;
@@ -1226,7 +1226,7 @@ body {
   perspective: 3000px;
 }
 
-/* line 935, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 935, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal.page .slides section {
   padding: 30px;
   min-height: 700px;
@@ -1235,12 +1235,12 @@ body {
   box-sizing: border-box;
 }
 
-/* line 943, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 943, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal.page .slides section.past {
   z-index: 12;
 }
 
-/* line 946, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 946, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal.page .slides section:not(.stack):before {
   content: '';
   position: absolute;
@@ -1257,7 +1257,7 @@ body {
   transform: translateZ(-20px);
 }
 
-/* line 962, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 962, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal.page .slides section:not(.stack):after {
   content: '';
   position: absolute;
@@ -1273,13 +1273,13 @@ body {
   -webkit-transform: translateZ(-90px) rotateX(65deg);
 }
 
-/* line 979, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 979, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal.page .slides > section.stack {
   padding: 0;
   background: none;
 }
 
-/* line 984, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 984, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal.page .slides > section.past {
   -webkit-transform-origin: 0% 0%;
   -moz-transform-origin: 0% 0%;
@@ -1291,7 +1291,7 @@ body {
   transform: translate3d(-40%, 0, 0) rotateY(-80deg);
 }
 
-/* line 996, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 996, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal.page .slides > section.future {
   -webkit-transform-origin: 100% 0%;
   -moz-transform-origin: 100% 0%;
@@ -1303,7 +1303,7 @@ body {
   transform: translate3d(0, 0, 0);
 }
 
-/* line 1008, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1008, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal.page .slides > section > section.past {
   -webkit-transform-origin: 0% 0%;
   -moz-transform-origin: 0% 0%;
@@ -1315,7 +1315,7 @@ body {
   transform: translate3d(0, -40%, 0) rotateX(80deg);
 }
 
-/* line 1020, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1020, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal.page .slides > section > section.future {
   -webkit-transform-origin: 0% 100%;
   -moz-transform-origin: 0% 100%;
@@ -1330,7 +1330,7 @@ body {
 /*********************************************
  * FADE TRANSITION
  *********************************************/
-/* line 1039, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1039, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides section[data-transition=fade],
 .reveal.fade .slides section,
 .reveal.fade .slides > section > section {
@@ -1346,7 +1346,7 @@ body {
   transition: opacity 0.5s;
 }
 
-/* line 1057, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1057, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal.fade.overview .slides section,
 .reveal.fade.overview .slides > section > section,
 .reveal.fade.overview-deactivating .slides section,
@@ -1361,7 +1361,7 @@ body {
 /*********************************************
  * NO TRANSITION
  *********************************************/
-/* line 1071, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1071, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slides section[data-transition=none],
 .reveal.none .slides section {
   -webkit-transform: none;
@@ -1379,7 +1379,7 @@ body {
 /*********************************************
  * OVERVIEW
  *********************************************/
-/* line 1090, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1090, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal.overview .slides {
   -webkit-perspective-origin: 0% 0%;
   -moz-perspective-origin: 0% 0%;
@@ -1391,7 +1391,7 @@ body {
   perspective: 700px;
 }
 
-/* line 1102, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1102, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal.overview .slides section {
   height: 600px;
   top: -300px !important;
@@ -1402,34 +1402,34 @@ body {
   background: rgba(0, 0, 0, 0.1);
 }
 
-/* line 1111, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1111, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal.overview .slides section .fragment {
   opacity: 1;
 }
 
-/* line 1115, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1115, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal.overview .slides section:after,
 .reveal.overview .slides section:before {
   display: none !important;
 }
 
-/* line 1118, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1118, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal.overview .slides section > section {
   opacity: 1;
   cursor: pointer;
 }
 
-/* line 1122, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1122, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal.overview .slides section:hover {
   background: rgba(0, 0, 0, 0.3);
 }
 
-/* line 1125, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1125, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal.overview .slides section.present {
   background: rgba(0, 0, 0, 0.3);
 }
 
-/* line 1128, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1128, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal.overview .slides > section.stack {
   padding: 0;
   top: 0 !important;
@@ -1440,7 +1440,7 @@ body {
 /*********************************************
  * PAUSED MODE
  *********************************************/
-/* line 1140, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1140, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .pause-overlay {
   position: absolute;
   top: 0;
@@ -1458,7 +1458,7 @@ body {
   transition: all 1s ease;
 }
 
-/* line 1157, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1157, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal.paused .pause-overlay {
   visibility: visible;
   opacity: 1;
@@ -1467,12 +1467,12 @@ body {
 /*********************************************
  * FALLBACK
  *********************************************/
-/* line 1167, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1167, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .no-transforms {
   overflow-y: auto;
 }
 
-/* line 1171, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1171, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .no-transforms .reveal .slides {
   position: relative;
   width: 80%;
@@ -1483,13 +1483,13 @@ body {
   text-align: center;
 }
 
-/* line 1182, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1182, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .no-transforms .reveal .controls,
 .no-transforms .reveal .progress {
   display: none !important;
 }
 
-/* line 1186, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1186, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .no-transforms .reveal .slides section {
   display: block !important;
   opacity: 1 !important;
@@ -1506,12 +1506,12 @@ body {
   transform: none;
 }
 
-/* line 1203, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1203, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .no-transforms .reveal .slides section section {
   left: 0;
 }
 
-/* line 1208, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1208, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .no-transition,
 .reveal .no-transition * {
   -webkit-transition: none !important;
@@ -1524,7 +1524,7 @@ body {
 /*********************************************
  * BACKGROUND STATES [DEPRECATED]
  *********************************************/
-/* line 1221, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1221, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .state-background {
   position: absolute;
   width: 100%;
@@ -1537,47 +1537,47 @@ body {
   transition: background 800ms ease;
 }
 
-/* line 1233, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1233, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .alert .reveal .state-background {
   background: rgba(200, 50, 30, 0.6);
 }
 
-/* line 1236, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1236, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .soothe .reveal .state-background {
   background: rgba(50, 200, 90, 0.4);
 }
 
-/* line 1239, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1239, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .blackout .reveal .state-background {
   background: rgba(0, 0, 0, 0.6);
 }
 
-/* line 1242, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1242, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .whiteout .reveal .state-background {
   background: rgba(255, 255, 255, 0.6);
 }
 
-/* line 1245, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1245, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .cobalt .reveal .state-background {
   background: rgba(22, 152, 213, 0.6);
 }
 
-/* line 1248, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1248, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .mint .reveal .state-background {
   background: rgba(22, 213, 75, 0.6);
 }
 
-/* line 1251, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1251, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .submerge .reveal .state-background {
   background: rgba(12, 25, 77, 0.6);
 }
 
-/* line 1254, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1254, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .lila .reveal .state-background {
   background: rgba(180, 50, 140, 0.6);
 }
 
-/* line 1257, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1257, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .sunset .reveal .state-background {
   background: rgba(255, 122, 0, 0.6);
 }
@@ -1585,14 +1585,14 @@ body {
 /*********************************************
  * PER-SLIDE BACKGROUNDS
  *********************************************/
-/* line 1266, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1266, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal > .backgrounds {
   position: absolute;
   width: 100%;
   height: 100%;
 }
 
-/* line 1271, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1271, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slide-background {
   position: absolute;
   width: 100%;
@@ -1610,20 +1610,20 @@ body {
   transition: all 600ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
 }
 
-/* line 1289, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1289, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .slide-background.present {
   opacity: 1;
   visibility: visible;
 }
 
-/* line 1294, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1294, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .print-pdf .reveal .slide-background {
   opacity: 1 !important;
   visibility: visible !important;
 }
 
 /* Immediate transition style */
-/* line 1301, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1301, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal[data-background-transition=none] > .backgrounds .slide-background,
 .reveal > .backgrounds .slide-background[data-background-transition=none] {
   -webkit-transition: none;
@@ -1634,7 +1634,7 @@ body {
 }
 
 /* Linear sliding transition style */
-/* line 1311, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1311, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal[data-background-transition=slide] > .backgrounds .slide-background,
 .reveal > .backgrounds .slide-background[data-background-transition=slide] {
   opacity: 1;
@@ -1649,7 +1649,7 @@ body {
   transition-duration: 800ms;
 }
 
-/* line 1326, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1326, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal[data-background-transition=slide] > .backgrounds .slide-background.past,
 .reveal > .backgrounds .slide-background.past[data-background-transition=slide] {
   -webkit-transform: translate(-100%, 0);
@@ -1659,7 +1659,7 @@ body {
   transform: translate(-100%, 0);
 }
 
-/* line 1334, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1334, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal[data-background-transition=slide] > .backgrounds .slide-background.future,
 .reveal > .backgrounds .slide-background.future[data-background-transition=slide] {
   -webkit-transform: translate(100%, 0);
@@ -1669,7 +1669,7 @@ body {
   transform: translate(100%, 0);
 }
 
-/* line 1343, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1343, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal[data-background-transition=slide] > .backgrounds .slide-background > .slide-background.past,
 .reveal > .backgrounds .slide-background > .slide-background.past[data-background-transition=slide] {
   -webkit-transform: translate(0, -100%);
@@ -1679,7 +1679,7 @@ body {
   transform: translate(0, -100%);
 }
 
-/* line 1351, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1351, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal[data-background-transition=slide] > .backgrounds .slide-background > .slide-background.future,
 .reveal > .backgrounds .slide-background > .slide-background.future[data-background-transition=slide] {
   -webkit-transform: translate(0, 100%);
@@ -1690,7 +1690,7 @@ body {
 }
 
 /* Global transition speed settings */
-/* line 1361, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1361, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal[data-transition-speed="fast"] > .backgrounds .slide-background {
   -webkit-transition-duration: 400ms;
   -moz-transition-duration: 400ms;
@@ -1698,7 +1698,7 @@ body {
   transition-duration: 400ms;
 }
 
-/* line 1367, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1367, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal[data-transition-speed="slow"] > .backgrounds .slide-background {
   -webkit-transition-duration: 1200ms;
   -moz-transition-duration: 1200ms;
@@ -1709,7 +1709,7 @@ body {
 /*********************************************
  * RTL SUPPORT
  *********************************************/
-/* line 1385, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1385, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal.rtl .slides,
 .reveal.rtl .slides h1,
 .reveal.rtl .slides h2,
@@ -1720,19 +1720,19 @@ body {
   direction: rtl;
 }
 
-/* line 1390, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1390, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal.rtl pre,
 .reveal.rtl code {
   direction: ltr;
 }
 
-/* line 1395, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1395, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal.rtl ol,
 .reveal.rtl ul {
   text-align: right;
 }
 
-/* line 1399, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1399, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal.rtl .progress span {
   float: right;
 }
@@ -1740,7 +1740,7 @@ body {
 /*********************************************
  * LINK PREVIEW OVERLAY
  *********************************************/
-/* line 1408, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1408, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .preview-link-overlay {
   position: absolute;
   top: 0;
@@ -1757,13 +1757,13 @@ body {
   transition: all 0.3s ease;
 }
 
-/* line 1424, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1424, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .preview-link-overlay.visible {
   opacity: 1;
   visibility: visible;
 }
 
-/* line 1429, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1429, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .preview-link-overlay .spinner {
   position: absolute;
   display: block;
@@ -1782,7 +1782,7 @@ body {
   transition: all 0.3s ease;
 }
 
-/* line 1449, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1449, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .preview-link-overlay header {
   position: absolute;
   left: 0;
@@ -1793,7 +1793,7 @@ body {
   border-bottom: 1px solid #222;
 }
 
-/* line 1458, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1458, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .preview-link-overlay header a {
   display: inline-block;
   width: 40px;
@@ -1804,12 +1804,12 @@ body {
   box-sizing: border-box;
 }
 
-/* line 1468, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1468, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .preview-link-overlay header a:hover {
   opacity: 1;
 }
 
-/* line 1471, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1471, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .preview-link-overlay header a .icon {
   display: inline-block;
   width: 20px;
@@ -1819,17 +1819,17 @@ body {
   background-repeat: no-repeat;
 }
 
-/* line 1480, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1480, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .preview-link-overlay header a.close .icon {
   background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABkklEQVRYR8WX4VHDMAxG6wnoJrABZQPYBCaBTWAD2g1gE5gg6OOsXuxIlr40d81dfrSJ9V4c2VLK7spHuTJ/5wpM07QXuXc5X0opX2tEJcadjHuV80li/FgxTIEK/5QBCICBD6xEhSMGHgQPgBgLiYVAB1dpSqKDawxTohFw4JSEA3clzgIBPCURwE2JucBR7rhPJJv5OpJwDX+SfDjgx1wACQeJG1aChP9K/IMmdZ8DtESV1WyP3Bt4MwM6sj4NMxMYiqUWHQu4KYA/SYkIjOsm3BXYWMKFDwU2khjCQ4ELJUJ4SmClRArOCmSXGuKma0fYD5CbzHxFpCSGAhfAVSSUGDUk2BWZaff2g6GE15BsBQ9nwmpIGDiyHQddwNTMKkbZaf9fajXQca1EX44puJZUsnY0ObGmITE3GVLCbEhQUjGVt146j6oasWN+49Vph2w1pZ5EansNZqKBm1txbU57iRRcZ86RWMDdWtBJUHBHwoQPi1GV+JCbntmvok7iTX4/Up9mgyTc/FJYDTcndgH/AA5A/CHsyEkVAAAAAElFTkSuQmCC);
 }
 
-/* line 1483, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1483, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .preview-link-overlay header a.external .icon {
   background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAcElEQVRYR+2WSQoAIQwEzf8f7XiOMkUQxUPlGkM3hVmiQfQR9GYnH1SsAQlI4DiBqkCMoNb9y2e90IAEJPAcgdznU9+engMaeJ7Azh5Y1U67gAho4DqBqmB1buAf0MB1AlVBek83ZPkmJMGc1wAR+AAqod/B97TRpQAAAABJRU5ErkJggg==);
 }
 
-/* line 1487, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1487, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .preview-link-overlay .viewport {
   position: absolute;
   top: 40px;
@@ -1838,7 +1838,7 @@ body {
   left: 0;
 }
 
-/* line 1495, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1495, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .preview-link-overlay .viewport iframe {
   width: 100%;
   height: 100%;
@@ -1853,13 +1853,13 @@ body {
   transition: all 0.3s ease;
 }
 
-/* line 1511, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1511, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .preview-link-overlay.loaded .viewport iframe {
   opacity: 1;
   visibility: visible;
 }
 
-/* line 1516, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1516, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .preview-link-overlay.loaded .spinner {
   opacity: 0;
   visibility: hidden;
@@ -1872,7 +1872,7 @@ body {
 /*********************************************
  * ROLLING LINKS
  *********************************************/
-/* line 1531, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1531, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .roll {
   display: inline-block;
   line-height: 1.2;
@@ -1888,13 +1888,13 @@ body {
   perspective-origin: 50% 50%;
 }
 
-/* line 1548, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1548, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .roll:hover {
   background: none;
   text-shadow: none;
 }
 
-/* line 1552, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1552, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .roll span {
   display: block;
   position: relative;
@@ -1917,7 +1917,7 @@ body {
   backface-visibility: hidden;
 }
 
-/* line 1578, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1578, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .roll:hover span {
   background: rgba(0, 0, 0, 0.5);
   -webkit-transform: translate3d(0px, 0px, -45px) rotateX(90deg);
@@ -1926,7 +1926,7 @@ body {
   transform: translate3d(0px, 0px, -45px) rotateX(90deg);
 }
 
-/* line 1586, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1586, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal .roll span:after {
   content: attr(data-title);
   display: block;
@@ -1950,7 +1950,7 @@ body {
 /*********************************************
  * SPEAKER NOTES
  *********************************************/
-/* line 1615, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1615, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .reveal aside.notes {
   display: none;
 }
@@ -1958,7 +1958,7 @@ body {
 /*********************************************
  * ZOOM PLUGIN
  *********************************************/
-/* line 1626, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1626, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .zoomed .reveal *,
 .zoomed .reveal *:before,
 .zoomed .reveal *:after {
@@ -1972,23 +1972,23 @@ body {
   backface-visibility: visible !important;
 }
 
-/* line 1639, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1639, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .zoomed .reveal .progress,
 .zoomed .reveal .controls {
   opacity: 0;
 }
 
-/* line 1643, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1643, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .zoomed .reveal .roll span {
   background: none;
 }
 
-/* line 1647, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
+/* line 1647, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_reveal.scss */
 .zoomed .reveal .roll span:after {
   visibility: hidden;
 }
 
-/* line 4, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_elements.scss */
+/* line 4, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_elements.scss */
 * {
   box-sizing: border-box;
   -o-box-sizing: border-box;
@@ -1998,7 +1998,7 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-/* line 12, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_elements.scss */
+/* line 12, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_elements.scss */
 body {
   background-color: white;
   color: #4d4d4d;
@@ -2007,7 +2007,7 @@ body {
   line-height: 1.4;
 }
 
-/* line 26, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_elements.scss */
+/* line 26, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_elements.scss */
 h1, h2, h3, h4, h5, h6,
 p,
 ul,
@@ -2018,55 +2018,55 @@ pre {
   margin: 0 0 .6em 0;
 }
 
-/* line 30, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_elements.scss */
+/* line 30, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_elements.scss */
 ol {
   padding-left: 1.4em;
 }
 
-/* line 34, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_elements.scss */
+/* line 34, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_elements.scss */
 ul {
   padding: 0;
   list-style: none;
 }
 
-/* line 39, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_elements.scss */
+/* line 39, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_elements.scss */
 dt {
   font-weight: bold;
 }
 
-/* line 43, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_elements.scss */
+/* line 43, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_elements.scss */
 dd {
   margin-left: 1.4em;
 }
 
-/* line 47, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_elements.scss */
+/* line 47, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_elements.scss */
 a {
   color: #00c9c9;
   font-weight: bolder;
 }
-/* line 51, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_elements.scss */
+/* line 51, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_elements.scss */
 a:hover {
   color: #009696;
 }
 
-/* line 56, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_elements.scss */
+/* line 56, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_elements.scss */
 blockquote {
   margin: 0;
   padding: 0 2em;
   border-left: 0.2em solid #4d4d4d;
   font-style: italic;
 }
-/* line 62, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_elements.scss */
+/* line 62, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_elements.scss */
 blockquote p:before {
   margin: 0 .2em 0 -.6em;
   content: "“";
 }
-/* line 67, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_elements.scss */
+/* line 67, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_elements.scss */
 blockquote p:after {
   content: "”";
 }
 
-/* line 72, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_elements.scss */
+/* line 72, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_elements.scss */
 pre {
   -ms-border-radius: 0.2em;
   -moz-border-radius: 0.2em;
@@ -2077,7 +2077,7 @@ pre {
   color: white;
 }
 
-/* line 81, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_elements.scss */
+/* line 81, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_elements.scss */
 p code,
 p samp {
   -ms-border-radius: 0.2em;
@@ -2089,14 +2089,14 @@ p samp {
   background-color: whitesmoke;
 }
 
-/* line 89, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_elements.scss */
+/* line 89, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_elements.scss */
 hr {
   margin: 2em 0;
   border: 0;
   border-top: 1px dashed #4d4d4d;
 }
 
-/* line 98, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_elements.scss */
+/* line 98, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_elements.scss */
 button, .btn,
 input[type="button"],
 input[type="reset"],
@@ -2114,7 +2114,7 @@ input[type="submit"] {
   font-weight: normal;
   line-height: 1;
 }
-/* line 110, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_elements.scss */
+/* line 110, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_elements.scss */
 button:hover, .btn:hover,
 input[type="button"]:hover,
 input[type="reset"]:hover,
@@ -2123,20 +2123,20 @@ input[type="submit"]:hover {
   color: white;
 }
 
-/* line 5, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_helpers.scss */
+/* line 5, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_helpers.scss */
 .text-list {
   list-style: disc;
   padding-left: 1em;
 }
 
-/* line 11, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_helpers.scss */
+/* line 11, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_helpers.scss */
 .clear-fix:after {
   content: "";
   display: table;
   clear: both;
 }
 
-/* line 4, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_typography.scss */
+/* line 4, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_typography.scss */
 h1, h2, h3, h4, h5, h6 {
   color: #00c9c9;
   font-family: "proxima-nova", sans-serif;
@@ -2144,65 +2144,65 @@ h1, h2, h3, h4, h5, h6 {
   text-transform: uppercase;
 }
 
-/* line 14, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_typography.scss */
+/* line 14, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_typography.scss */
 .tera,
 .giga,
 .mega {
   line-height: 1.1;
 }
 
-/* line 18, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_typography.scss */
+/* line 18, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_typography.scss */
 .tera {
   font-size: 4.6em;
 }
 
-/* line 22, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_typography.scss */
+/* line 22, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_typography.scss */
 .giga {
   font-size: 3.5em;
 }
 
-/* line 26, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_typography.scss */
+/* line 26, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_typography.scss */
 .mega {
   font-size: 2.6em;
 }
 
-/* line 30, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_typography.scss */
+/* line 30, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_typography.scss */
 .alpha, h1 {
   font-size: 2em;
   line-height: 1.2;
 }
 
-/* line 35, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_typography.scss */
+/* line 35, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_typography.scss */
 .beta, h2 {
   font-size: 1.5em;
   line-height: 1.2;
 }
 
-/* line 40, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_typography.scss */
+/* line 40, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_typography.scss */
 .gamma, h3 {
   font-size: 1.17em;
   line-height: 1.2;
 }
 
-/* line 45, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_typography.scss */
+/* line 45, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_typography.scss */
 .delta, h4 {
   font-size: 1em;
   line-height: 1.2;
 }
 
-/* line 50, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_typography.scss */
+/* line 50, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_typography.scss */
 .epsilon, h5 {
   font-size: .83em;
   line-height: 1.2;
 }
 
-/* line 55, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_typography.scss */
+/* line 55, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_typography.scss */
 .zeta, h6 {
   font-size: .75em;
   line-height: 1.2;
 }
 
-/* line 65, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_typography.scss */
+/* line 65, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_typography.scss */
 .alpha, h1,
 .beta,
 h2,
@@ -2217,48 +2217,48 @@ h6 {
   line-height: 1.2;
 }
 
-/* line 69, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_typography.scss */
+/* line 69, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_typography.scss */
 h1 {
   margin-bottom: 0.3em;
 }
 
-/* line 74, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_typography.scss */
+/* line 74, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_typography.scss */
 h2 {
   margin-bottom: 0.4em;
 }
 
-/* line 79, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_typography.scss */
+/* line 79, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_typography.scss */
 h3 {
   margin-bottom: 0.51282em;
 }
 
-/* line 84, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_typography.scss */
+/* line 84, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_typography.scss */
 h4 {
   margin-bottom: 0.6em;
 }
 
-/* line 89, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_typography.scss */
+/* line 89, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_typography.scss */
 h5 {
   margin-bottom: 0.72289em;
 }
 
-/* line 94, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_typography.scss */
+/* line 94, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_typography.scss */
 h6 {
   margin-bottom: 0.8em;
 }
 
-/* line 4, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_header.scss */
+/* line 4, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_header.scss */
 .pc-header {
   position: fixed;
-  top: 35px;
-  left: 35px;
+  top: 25px;
+  left: 25px;
 }
 
-/* line 10, /Users/mark/Dropbox/playground/howl/rjs-slide-deck/app/sass/_header.scss */
+/* line 10, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_header.scss */
 .pc-logo {
-  background: #ee5080 url("../img/pc-logo.svg") no-repeat;
+  background: white url("../img/pc-logo.svg") no-repeat;
   background-size: 202px 36px;
   width: 202px;
   height: 36px;
-  box-shadow: 0 0 0 15px #ee5080;
+  text-indent: -9999px;
 }
