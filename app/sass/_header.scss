@@ -1,0 +1,16 @@
+//===============================================================================
+// HEADER
+//===============================================================================
+.pc-header {
+  position: fixed;
+  top: 35px;
+  left: 35px;
+}
+
+.pc-logo {
+  background: $pc-pink url('../img/pc-logo.svg') no-repeat;
+  background-size: (303px / 1.5) (54px / 1.5);
+  width: (303px / 1.5);
+  height: (54px / 1.5);
+  box-shadow: 0 0 0 15px $pc-pink;
+}
