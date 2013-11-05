@@ -12,6 +12,10 @@ body {
 
 .reveal {
 
+  li{
+    margin-bottom: 12px;
+  }
+
 }
 
 .reveal .slides {
@@ -120,7 +124,7 @@ body {
 }
 
 //===============================================================================
-// PROGRESS BAR
+// VIDEO SLIDE
 //===============================================================================
 .video-slide {
   text-align: center;
@@ -128,4 +132,71 @@ body {
   p{
     margin-top: 12px;
   }
+}
+
+//===============================================================================
+// ILLI SLIDE
+//===============================================================================
+.illi-slide {
+  padding: 0 6% !important;
+
+  img,
+  svg {
+    max-height: 70%;
+    margin-top: 4.5%;
+  }
+}
+
+.phone-green {
+
+}
+
+.speaker {
+  $size: 140px;
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: (- $size / 2 + 15) 0 0 (- $size / 2) !important;
+  height: $size;
+  width: $size;
+
+  g:nth-child(2){
+    -webkit-animation: audio .6s 0 infinite alternate;
+  }
+
+  g:nth-child(3){
+    -webkit-animation: audio .6s 1s infinite alternate;
+  }
+
+  g:nth-child(4){
+    -webkit-animation: audio .6s 2s infinite alternate;
+  }
+
+  g:nth-child(5){
+    -webkit-animation: audio .6s 3s infinite alternate;
+  }
+}
+
+.phone-orange {
+  float: right;
+
+  #game-icon{
+    opacity: 0;
+  }
+}
+
+.reveal .slides section .fragment {
+  -webkit-transition: all .75s ease;
+     -moz-transition: all .75s ease;
+      -ms-transition: all .75s ease;
+       -o-transition: all .75s ease;
+          transition: all .75s ease;
+}
+
+
+
+@-webkit-keyframes audio {
+  0%   { opacity: 1; }
+  100% { opacity: .35; }
 }
