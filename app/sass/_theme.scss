@@ -4,6 +4,17 @@
 @font-face { 
 }
 
+.code-logo{
+  text-indent: -9999px;
+  background-image: url('../img/pc-logo.svg');
+  background-repeat: no-repeat;
+  color: transparent;
+  background-size: cover;
+  font-size: .8em !important;
+  top: -.15em;
+  position: relative;
+}
+
 //===============================================================================
 // GLOBAL STYLES
 //===============================================================================
