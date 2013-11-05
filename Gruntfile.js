@@ -105,7 +105,4 @@ module.exports = function (grunt) {
   });
 
   grunt.registerTask('default', ['open', 'connect', 'watch']);
-
-  // gh-pages stuff
-  grunt.loadNpmTasks('grunt-gh-pages');
 };

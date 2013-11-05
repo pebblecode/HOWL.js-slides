@@ -2002,7 +2002,7 @@ body {
 body {
   background-color: white;
   color: #4d4d4d;
-  font-size: 3em;
+  font-size: 2.6em;
   font-family: "ff-tisa-web-pro", serif;
   line-height: 1.4;
 }
@@ -2245,6 +2245,68 @@ h5 {
 /* line 94, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_typography.scss */
 h6 {
   margin-bottom: 0.8em;
+}
+
+@font-face {}
+/* line 17, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
+.reveal .slides {
+  text-align: left;
+}
+
+/* line 21, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
+::selection {
+  background: #d3ffff;
+  color: inherit;
+}
+
+/* line 34, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  color: #00c9c9;
+  font-family: "proxima-nova", sans-serif;
+  font-weight: 700;
+}
+
+/* line 43, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
+.reveal h2 {
+  margin-bottom: 12px;
+}
+
+/* line 76, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
+.reveal .controls div.navigate-left,
+.reveal .controls div.navigate-left.enabled {
+  border-right-color: #00c9c9;
+}
+
+/* line 81, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
+.reveal .controls div.navigate-right,
+.reveal .controls div.navigate-right.enabled {
+  border-left-color: #00c9c9;
+}
+
+/* line 86, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
+.reveal .controls div.navigate-up,
+.reveal .controls div.navigate-up.enabled {
+  border-bottom-color: #00c9c9;
+}
+
+/* line 91, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
+.reveal .controls div.navigate-down,
+.reveal .controls div.navigate-down.enabled {
+  border-top-color: #00c9c9;
+}
+
+/* line 125, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
+.video-slide {
+  text-align: center;
+}
+/* line 128, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
+.video-slide p {
+  margin-top: 12px;
 }
 
 /* line 4, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_header.scss */
