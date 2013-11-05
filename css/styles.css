@@ -2248,23 +2248,35 @@ h6 {
 }
 
 @font-face {}
-/* line 15, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
+/* line 7, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
+.code-logo {
+  text-indent: -9999px;
+  background-image: url("../img/pc-logo.svg");
+  background-repeat: no-repeat;
+  color: transparent;
+  background-size: cover;
+  font-size: .8em !important;
+  top: -.15em;
+  position: relative;
+}
+
+/* line 26, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
 .reveal li {
   margin-bottom: 12px;
 }
 
-/* line 21, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
+/* line 32, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
 .reveal .slides {
   text-align: left;
 }
 
-/* line 25, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
+/* line 36, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
 ::selection {
   background: #d3ffff;
   color: inherit;
 }
 
-/* line 38, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
+/* line 49, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
 .reveal h1,
 .reveal h2,
 .reveal h3,
@@ -2276,62 +2288,62 @@ h6 {
   font-weight: 700;
 }
 
-/* line 47, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
+/* line 58, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
 .reveal h2 {
   margin-bottom: 12px;
 }
 
-/* line 80, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
+/* line 91, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
 .reveal .controls div.navigate-left,
 .reveal .controls div.navigate-left.enabled {
   border-right-color: #00c9c9;
 }
 
-/* line 85, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
+/* line 96, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
 .reveal .controls div.navigate-right,
 .reveal .controls div.navigate-right.enabled {
   border-left-color: #00c9c9;
 }
 
-/* line 90, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
+/* line 101, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
 .reveal .controls div.navigate-up,
 .reveal .controls div.navigate-up.enabled {
   border-bottom-color: #00c9c9;
 }
 
-/* line 95, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
+/* line 106, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
 .reveal .controls div.navigate-down,
 .reveal .controls div.navigate-down.enabled {
   border-top-color: #00c9c9;
 }
 
-/* line 129, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
+/* line 140, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
 .video-slide {
   text-align: center;
 }
-/* line 132, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
+/* line 143, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
 .video-slide p {
   margin-top: 12px;
 }
 
-/* line 140, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
+/* line 151, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
 .illi-slide {
   padding: 0 6% !important;
 }
-/* line 144, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
+/* line 155, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
 .illi-slide img,
 .illi-slide svg {
   max-height: 70%;
   margin-top: 4.5%;
 }
 
-/* line 150, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
+/* line 161, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
 .phone-green {
   max-width: 28% !important;
   float: left;
 }
 
-/* line 155, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
+/* line 166, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
 .speaker {
   position: absolute;
   top: 50%;
@@ -2340,33 +2352,33 @@ h6 {
   height: 140px;
   width: 140px;
 }
-/* line 165, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
+/* line 176, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
 .speaker g:nth-child(2) {
   -webkit-animation: audio .6s 0 infinite alternate;
 }
-/* line 169, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
+/* line 180, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
 .speaker g:nth-child(3) {
   -webkit-animation: audio .6s 1s infinite alternate;
 }
-/* line 173, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
+/* line 184, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
 .speaker g:nth-child(4) {
   -webkit-animation: audio .6s 2s infinite alternate;
 }
-/* line 177, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
+/* line 188, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
 .speaker g:nth-child(5) {
   -webkit-animation: audio .6s 3s infinite alternate;
 }
 
-/* line 182, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
+/* line 193, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
 .phone-orange {
   float: right;
 }
-/* line 185, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
+/* line 196, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
 .phone-orange #game-icon {
   opacity: 0;
 }
 
-/* line 190, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
+/* line 201, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
 .reveal .slides section .fragment {
   -webkit-transition: all .75s ease;
   -moz-transition: all .75s ease;
@@ -2376,12 +2388,12 @@ h6 {
 }
 
 @-webkit-keyframes audio {
-  /* line 201, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
+  /* line 212, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
   0% {
     opacity: 1;
   }
 
-  /* line 202, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
+  /* line 213, /Users/markdurrant/Dropbox/playground/howl/rjs-slide-deck/app/sass/_theme.scss */
   100% {
     opacity: .35;
   }
